@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Feed name="urban-masterCatalog-feed" extractDate="2016-03-14T04:00:02.714-04:00" incremental="false">
+    <Categories>
+        <Category>
+            <CategoryId>HOME-FURNITURE-CHAIRS</CategoryId>
+            <ParentCategoryId>HOME-FURNITURE</ParentCategoryId>
+            <CategoryName>Chairs</CategoryName>
+            <CategoryPageUrl>http://www.anthropologie.com/anthro/catalog/category.jsp?id=HOME-FURNITURE-CHAIRS</CategoryPageUrl>
+            <IsFeature>false</IsFeature>
+            <IncludeInSearch>true</IncludeInSearch>
+            <IncludeInMobile>true</IncludeInMobile>
+            <Keywords></Keywords>
+            <FredHopperResult>1</FredHopperResult>
+        </Category>
+        .
+        .
+        .
+        .
+        <Product>
+            <ProductId>970122</ProductId>
+            <ProductName>Savannah Story Bust, Rhino</ProductName>
+            <ProductPageUrl>http://www.anthropologie.com/anthro/product/970122.jsp</ProductPageUrl>
+            <CanonicalUrl>http://www.anthropologie.com/anthro/product/970122.jsp</CanonicalUrl>
+            <Description>Savannah Story Bust, Rhino</Description>
+            <LongDescription>&lt;ul&gt;&lt;li&gt;Recycled cement bags, vintage book paper&lt;/li&gt;&lt;li&gt;Imported&lt;/li&gt;&lt;/ul&gt;</LongDescription>
+            <CategoryPath>
+                <CategoryName>HOME-ONLINE-EX-DECOR</CategoryName>
+                <CategoryName>HOME-WALL-PRINTS</CategoryName>
+                <CategoryName>HOME-WILDTHINGS</CategoryName>
+            </CategoryPath>
+            <ParentCategory>HOME-ROOM</ParentCategory>
+            <SearchTerms></SearchTerms>
+            <LeadColor>011</LeadColor>
+            <ColorList>
+                <ColorCode>011</ColorCode>
+            </ColorList>
+            <AdditionalInfo>Layers of repurposed cement bags are covered with vintage French book pages to create this handmade, papier mache animal head.</AdditionalInfo>
+            <FamilyMoreInfo>Layers of repurposed cement bags are covered with vintage French book pages to create this handmade, papier mache animal head.</FamilyMoreInfo>
+            <ProductTemplate>Apparel Product Detail Template</ProductTemplate>
+            <OnlineExclusive>true</OnlineExclusive>
+            <InternationallyShippable>true</InternationallyShippable>
+            <FamilyProducts></FamilyProducts>
+            <StartDate>11/10/2009 9:29:45</StartDate>
+            <IncludeInSearch>true</IncludeInSearch>
+            <IncludeInMobile>true</IncludeInMobile>
+            <IncludeInFirstDibs>1</IncludeInFirstDibs>
+            <IsPetite>false</IsPetite>
+            <Keywords>rhino;;animal</Keywords>
+            <FredHopperResult>0</FredHopperResult>
+            <minUSDListPrice>68</minUSDListPrice>
+            <maxUSDListPrice>68</maxUSDListPrice>
+            <minCADListPrice>98</minCADListPrice>
+            <maxCADListPrice>98</maxCADListPrice>
+            <minCADSalePrice>78</minCADSalePrice>
+            <maxCADSalePrice>78</maxCADSalePrice>
+            <BucketPrice>68</BucketPrice>
+            <OnSale>false</OnSale>
+            <NewProduct>false</NewProduct>
+            <DisplaySwatchAsProduct>false</DisplaySwatchAsProduct>
+            <ATGFacet1></ATGFacet1>
+            <ATGFacet2></ATGFacet2>
+            <ATGFacet3></ATGFacet3>
+            <ATGFacet4></ATGFacet4>
+            <ATGFacet5></ATGFacet5>
+            <ATGFacet6></ATGFacet6>
+            <ATGFacet7></ATGFacet7>
+            <ATGFacet8></ATGFacet8>
+            <ATGFacet9></ATGFacet9>
+            <ATGFacet10></ATGFacet10>
+        </Product>
+        .
+        .
+        .
+        .
+        <Sku>
+            <EcometryItemNumber>970122 011 0000</EcometryItemNumber>
+            <SkuId>000755015</SkuId>
+            <RetailSku>17475450</RetailSku>
+            <ParentProductExternalId>970122</ParentProductExternalId>
+            <SkuColor>white</SkuColor>
+            <ColorCode>011</ColorCode>
+            <SkuSize>One Size</SkuSize>
+            <SizeCode>970122_0000</SizeCode>
+            <USDListPrice>68</USDListPrice>
+            <CADListPrice>98</CADListPrice>
+            <CADSalePrice>78</CADSalePrice>
+            <ProductURLbySKU>http://www.anthropologie.com/anthro/product/970122.jsp?color=011</ProductURLbySKU>
+            <ImageURL-ProductDetailMain>http://images.anthropologie.com/is/image/Anthropologie/970122_011_b?$redesign-main$</ImageURL-ProductDetailMain>
+            <ImageURL-ProductDetailZoom>http://images.anthropologie.com/is/image/Anthropologie/970122_011_b?$redesign-product-zoom$</ImageURL-ProductDetailZoom>
+            <ImageURL-CategoryPage>http://images.anthropologie.com/is/image/Anthropologie/970122_011_b?$redesign-appcat$</ImageURL-CategoryPage>
+            <StandardSwatchImageLink>http://www.anthropologie.com/anthro/images/swatches/970122_011_sw.png</StandardSwatchImageLink>
+            <ExtendedFamilyLargeSwatchImageLink>http://www.anthropologie.com/anthro/images/swatches/970122_011_sw.png</ExtendedFamilyLargeSwatchImageLink>
+            <ExtendedFamilySmallSwatchImageLink>http://www.anthropologie.com/anthro/images/swatches/970122_011_sw.png</ExtendedFamilySmallSwatchImageLink>
+            <AlternateImageUrlsBySku>
+                <AlternateImageUrl>http://images.anthropologie.com/is/image/Anthropologie/970122_011_b?$redesign-main$</AlternateImageUrl>
+                <AlternateImageUrl>http://images.anthropologie.com/is/image/Anthropologie/970122_011_f?$redesign-main$</AlternateImageUrl>
+            </AlternateImageUrlsBySku>
+            <ThumbNailImageUrlsBySku>
+                <ThumbNailImageUrl>http://images.anthropologie.com/is/image/Anthropologie/970122_011_b?$redesign-thumb$</ThumbNailImageUrl>
+                <ThumbNailImageUrl>http://images.anthropologie.com/is/image/Anthropologie/970122_011_f?$redesign-thumb$</ThumbNailImageUrl>
+            </ThumbNailImageUrlsBySku>
+            <OverweightCharge>0</OverweightCharge>
+            <IsGiftwrappable>false</IsGiftwrappable>
+            <LargeImage>http://images.anthropologie.com/is/image/Anthropologie/970122_011_b?$redesign-zoom-5x$</LargeImage>
+        </Sku>
